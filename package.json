@@ -1,0 +1,16 @@
+{
+    "name": "slaybot",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@slack/bolt": "^3.22.0",
+        "dotenv": "^16.4.5"
+    },
+    "keywords": [],
+    "description": ""
+}
